@@ -35,7 +35,7 @@ An interactive **Power BI dashboard** was created to visualize the findings and 
 
 ## 📊 Dashboard Preview
 
-![Supply Chain Dashboard](supply%20chain%20dashboard%20preview.png)
+![Supply Chain Dashboard](supply%20chain%20dashboard%20preview.png.png)
 
 ---
 
@@ -58,7 +58,6 @@ Supply-Chain-Dashboard-Analysis/
 ├── Presentation/ # Final PowerPoint presentation
 ├── supply chain dashboard preview.png # Dashboard screenshot
 └── README.md # This file
-supply%20chain%20dashboard%20preview.png
 
 
 yaml
@@ -76,4 +75,4 @@ Edit
 ---
 
 > ⭐ *Feel free to fork this repo, give it a star, or reach out on LinkedIn for fee
-> supply%20chain%20dashboard%20preview.png
+> supply%20chain%20dashboard%20preview.png.png
