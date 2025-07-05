@@ -39,7 +39,8 @@ An interactive **Power BI dashboard** was created to visualize the findings and 
 
 ### 📍 Supply Chain Dashboard Overview
 ![Supply Chain Dashboard](Supply_Chain_Dashboard_preview.png)
-Deleted old supply chain preview image
+Delete Supply_Chain_Dashboard_preview.png
+
 
 
 ---
