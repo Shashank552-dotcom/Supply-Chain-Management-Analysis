@@ -38,6 +38,11 @@ An interactive **Power BI dashboard** was created to visualize the findings and 
 ## 📸 Additional Visuals & Analysis
 
 <!-- ![Supply Chain Dashboard](Supply_Chain_Dashboard_preview.png) -->
+## 📊 Tableau Dashboard Preview
+
+Below is a preview of the interactive Tableau dashboard designed for the Supply Chain Analysis:
+
+![Supply Chain Tableau Dashboard](Supplychain_dashboard_tableau.png)
 
 
 
