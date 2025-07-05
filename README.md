@@ -2,7 +2,7 @@
 End-to-end supply chain analysis using Excel, SQL &amp; Power BI to uncover operational insights and improve efficiency.
 # 🚚 Supply Chain Dashboard Analysis
 
-Comprehensive supply chain performance analysis using **Excel**, **SQL**, and **Power BI** to identify operational inefficiencies, track key logistics KPIs, and support data-driven decision-making.
+Comprehensive supply chain performance analysis using **Excel**, **SQL**, and **Tableau** to identify operational inefficiencies, track key logistics KPIs, and support data-driven decision-making.
 
 ---
 
@@ -10,7 +10,7 @@ Comprehensive supply chain performance analysis using **Excel**, **SQL**, and **
 
 This project analyzes key aspects of a supply chain system to uncover trends, inefficiencies, and optimization opportunities. The dataset includes information on shipping costs, supplier performance, delivery timelines, and regional logistics.
 
-An interactive **Power BI dashboard** was created to visualize the findings and deliver actionable insights.
+An interactive **Tableau dashboard** was created to visualize the findings and deliver actionable insights.
 
 ---
 
@@ -29,7 +29,7 @@ An interactive **Power BI dashboard** was created to visualize the findings and 
 |-------------|----------------------------------------------|
 | **Excel**   | Data cleaning, formatting, and pivot analysis |
 | **SQL**     | Data extraction, transformation, KPI logic   |
-| **Power BI**| Dashboard design and interactive visualization |
+| **Tableau**| Dashboard design and interactive visualization |
 
 ---
 
