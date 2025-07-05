@@ -33,9 +33,36 @@ An interactive **Power BI dashboard** was created to visualize the findings and 
 
 ---
 
-## 📊 Dashboard Preview
+---
 
-![Supply Chain Dashboard](supply%20chain%20dashboard%20preview.png.png)
+## 📸 Additional Visuals & Analysis
+
+### 📍 Supply Chain Dashboard Overview
+![Supply Chain Dashboard](Supply_Chain_Dashboard_preview.png)
+
+---
+
+### 📍 Sales & Revenue Chart
+![Sales and Revenue](Sales&revenue_chart.png)
+
+---
+
+### 📍 Supporting Excel Pivot Charts
+![Supporting Pivot Charts](Supporting_pivotcharts.png)
+
+---
+
+### 📍 Location-wise Shipping Cost Pivot
+![Shipping Cost Pivot](Locationwise_shippingcost_pivot.png)
+
+---
+
+## 📂 Project Presentation
+
+📽️ A downloadable PowerPoint presentation summarizing all key insights and visualizations:
+
+➡️ [Download Supply Chain Dashboard Analysis PPTX](Supply_chain_Dashboar_Analysis.pptx)
+
 
 ---
 
